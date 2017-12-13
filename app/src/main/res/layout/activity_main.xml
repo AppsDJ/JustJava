@@ -29,5 +29,6 @@
         android:layout_marginStart="16dp"
         android:onClick="submitOrder"
         android:text="@string/order_button"/>
+    
 </LinearLayout>
 
